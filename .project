@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>ParkingPlus</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.python.pydev.PyDevBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.python.pydev.pythonNature</nature>
+		<nature>org.python.pydev.django.djangoNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>static/background.jpg</name>
+			<type>1</type>
+			<location>D:/PythonCourse/ParkingPlus/static/background.jpg</location>
+		</link>
+		<link>
+			<name>static/header.jpg</name>
+			<type>1</type>
+			<location>D:/PythonCourse/ParkingPlus/static/header.jpg</location>
+		</link>
+	</linkedResources>
+</projectDescription>
